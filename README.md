@@ -1,5 +1,20 @@
 ## Hi there 👋
 
+🎓 I'm a 3rd-year Computer Science student at VŠB-TUO, Czech Republic.  
+💻 Junior software developer with experience in **mobile (Android/Kotlin)**, and growing skills in **backend (Java, Spring Boot, PostgreSQL, Docker)**.
+🚀 I enjoy learning new technologies and applying them in real projects – from mobile apps to backend services and C++/OpenGL applications.  
+
+## 🛠️ Skills
+- **Languages:** Kotlin, Java, C++, Swift, SQL  
+- **Mobile:** Android (Jetpack Compose, MVVM, Coroutines, Room), iOS (SwiftUI – in progress)  
+- **Backend:** Java 17, Spring Boot, REST API, PostgreSQL, Docker  
+- **Systems:** C++17, Linux (Ubuntu, bash, Makefile, CMake), OpenGL basics  
+- **Tools:** Git/GitHub, Gradle, Docker 
+
+## 🔬 Currently learning
+- Spring Boot + PostgreSQL backend development  
+- SwiftUI for iOS   
+
 <!--
 **adzinka/adzinka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
