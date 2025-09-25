@@ -7,7 +7,7 @@
 ## 🛠️ Skills
 - **Languages:** Kotlin, Java, C++, Swift, SQL  
 - **Mobile:** Android (Jetpack Compose, MVVM, Coroutines, Room), iOS (SwiftUI – in progress)  
-- **Backend:** Java 17, Spring Boot, REST API, PostgreSQL, Docker  
+- **Backend:** Spring Boot, REST API, PostgreSQL, Docker  
 - **Systems:** C++17, Linux (Ubuntu, bash, Makefile, CMake), OpenGL basics  
 - **Tools:** Git/GitHub, Gradle, Docker 
 
