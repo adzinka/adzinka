@@ -13,7 +13,11 @@
 
 ## 🔬 Currently learning
 - Spring Boot + PostgreSQL backend development  
-- SwiftUI for iOS   
+- SwiftUI for iOS
+
+## 📫 Contact
+- 📧 Email: yelizaveta.zhurava@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/yelizaveta-zhurava](https://www.linkedin.com/in/yelizaveta-zhurava/) 
 
 <!--
 **adzinka/adzinka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
