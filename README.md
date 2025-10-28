@@ -1,23 +1,24 @@
 ## Hi there 👋
 
-🎓 I'm a 3rd-year Computer Science student at VŠB-TUO, Czech Republic.  
-💻 Junior software developer with experience in **mobile (Android/Kotlin)**, and growing skills in **backend (Java, Spring Boot, PostgreSQL, Docker)**.
-🚀 I enjoy learning new technologies and applying them in real projects – from mobile apps to backend services and C++/OpenGL applications.  
+💻 **Junior Android Developer** and 3rd-year Computer Science student at VŠB-TUO.
+🚀 Passionate about building modern, user-friendly mobile applications with a strong focus on **Kotlin**, **Jetpack Compose**, and **MVVM architecture**.
+💡 I have practical experience from a **software development internship** and am now actively seeking a full-time/part-time junior role to contribute to challenging mobile projects.
 
-## 🛠️ Skills
-- **Languages:** Kotlin, Java, C++, Swift, SQL  
-- **Mobile:** Android (Jetpack Compose, MVVM, Coroutines, Room), iOS (SwiftUI – in progress)  
-- **Backend:** Spring Boot, REST API, PostgreSQL, Docker  
-- **Systems:** C++17, Linux (Ubuntu, bash, Makefile, CMake), OpenGL basics  
-- **Tools:** Git/GitHub, Gradle, Docker 
+## 🛠️ My Tech Stack
 
-## 🔬 Currently learning
-- Spring Boot + PostgreSQL backend development  
-- SwiftUI for iOS
+### Primary Focus: Android Development
+* **Languages:** Kotlin, Java
+* **UI:** Jetpack Compose, XML
+* **Architecture:** MVVM, Coroutines, Room, Retrofit
+* **Tools:** Gradle, Android Studio
 
-## 📫 Contact
-- 📧 Email: yelizaveta.zhurava@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/yelizaveta-zhurava](https://www.linkedin.com/in/yelizaveta-zhurava/) 
+### Secondary Skills (from University & Projects)
+* **Backend:** REST API, PostgreSQL
+* **Other:** C++, SQL, Git/GitHub, Linux
+
+## 📫 Let's Connect
+* 📧 Email: yelizaveta.zhurava@gmail.com
+* 💼 LinkedIn: [linkedin.com/in/yelizaveta-zhurava](https://www.linkedin.com/in/yelizaveta-zhurava/)
 
 <!--
 **adzinka/adzinka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
